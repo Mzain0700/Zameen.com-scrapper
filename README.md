@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b15fd78e-9331-4a57-8517-c17b2bcd76fb" />
+
 # Zameen.com Scrapper
 ## Overview
 This repository contains a Jupyter Notebook script that scrapes property listings from Zameen.com. The scraped data can be used for real estate analysis, price trend predictions, and other related applications.
